@@ -2,10 +2,8 @@
 
 <h1 align="center">Hi, I'm Ali Emre ✌️</h1>
 
-<img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ilal88pjcw4an3qpvcfk25vxbtp907mhe8dsvs9h&rid=giphy.gif&ct=g">
 
-
-<p>
+<p1>
 💬 const aliEmre = {
 -----------------------------------------------------------------------------------------------------------
 🤵    pronouns: "He" | "Him",
@@ -31,4 +29,5 @@
 😄    funFact: "There are two ways to write error-free programs; only the third one works"
 -----------------------------------------------------------------------------------------------------------
 };
-</p>
+</p1>
+<div align="center"><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ilal88pjcw4an3qpvcfk25vxbtp907mhe8dsvs9h&rid=giphy.gif&ct=g"></div>
