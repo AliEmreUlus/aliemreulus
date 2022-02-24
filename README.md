@@ -21,12 +21,12 @@
    },<br />
 -----------------------------------------------------------------------------------------------------------<br />
 📐    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],<br />
------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------<br />
 🧠    currentFocus: "I am currently studying at the university related to technical computer engineering.",<br />
 -----------------------------------------------------------------------------------------------------------<br />
 🌱    currentLearning :"I am interested in the field of robotics."<br />
 -----------------------------------------------------------------------------------------------------------<br />
-😄    funFact: "There are two ways to write error-free programs; only the third one works";</p1>
+😄    funFact: "There are two ways to write error-free programs; only the third one works";<br />
 -----------------------------------------------------------------------------------------------------------<br />
 }</p>
 
