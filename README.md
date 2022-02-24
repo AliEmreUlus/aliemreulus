@@ -1,5 +1,6 @@
 <img src="https://github.com/AliEmreUlus/aliemreulus/blob/main/banner.JPG?raw=true">
 
+<font face="Tahoma"> Yazı tipi </font> 
 <h1 align="center">Hi, I'm Ali Emre ✌️</h1>
 
 <!--
