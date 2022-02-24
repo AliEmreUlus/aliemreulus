@@ -1,5 +1,6 @@
 <img src="https://github.com/AliEmreUlus/aliemreulus/blob/main/banner.JPG?raw=true">
-### Hi there 👋
+
+<h1 align="center">Hi, I'm Ali Emre 👋</h1>
 
 <!--
 **AliEmreUlus/aliemreulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
