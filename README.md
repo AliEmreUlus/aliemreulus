@@ -1,6 +1,5 @@
 <img src="https://github.com/AliEmreUlus/aliemreulus/blob/main/banner.JPG?raw=true">
 
-<font face="impact,verdana,arial">Hi, I'm Ali Emre ✌️</font>
 <h1 align="center">Hi, I'm Ali Emre ✌️</h1>
 
 <!--
