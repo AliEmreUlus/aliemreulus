@@ -1,3 +1,4 @@
+<img src="https://github.com/AliEmreUlus/aliemreulus/blob/main/banner.JPG?raw=true">
 ### Hi there 👋
 
 <!--
