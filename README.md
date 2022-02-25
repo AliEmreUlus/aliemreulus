@@ -11,14 +11,13 @@
 </a>
   <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
   <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<img src="https://github-profile-trophy.vercel.app/?username=AliEmreUlus&theme=flat"/>  
+</a> 
           
 <img src="https://github.com/AliEmreUlus/aliemreulus/blob/main/banner.JPG?raw=true"/>
 
 <h1 align="center">Hi, I'm Ali Emre ✌️</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AliEmreUlus&theme=onedark"/>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AliEmreUlus&theme=flat"/></div>
 
 ```yaml
 name: Ali Emre Ulus
