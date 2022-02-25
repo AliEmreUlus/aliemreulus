@@ -52,7 +52,7 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
 🧠    currentFocus: "I am currently studying at the university related to technical computer engineering.",<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-🌱    currentLearning :"I am interested in the field of robotics."<br />
+🌱    currentLearning :"I am interested in the field of robotics and machine learning."<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
 😄    funFact: "There are two ways to write error-free programs; only the third one works";<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
