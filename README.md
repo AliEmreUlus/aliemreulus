@@ -65,4 +65,4 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=AliEmreUlus&custom_title=Ali%20Emre's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<iframe src="https://media.istockphoto.com/videos/german-flag-seamless-smooth-waving-animation-wonderful-flag-of-with-video-id1318633226" allow="autoplay"></iframe>
+<iframe src="https://media.istockphoto.com/videos/german-flag-seamless-smooth-waving-animation-wonderful-flag-of-with-video-id1318633226?autoplay=1" allow="autoplay"></iframe>
