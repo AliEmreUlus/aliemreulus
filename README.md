@@ -15,7 +15,7 @@
           
 <img src="https://github.com/AliEmreUlus/aliemreulus/blob/main/banner.JPG?raw=true"/>
 
-<h1 align="center">Hi, I'm Ali Emre ✌️</h1>
+<h1 align="center">Hello there ✌️</h1>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=AliEmreUlus&theme=flat"/></div>
 
