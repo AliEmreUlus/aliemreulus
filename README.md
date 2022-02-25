@@ -64,10 +64,12 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=AliEmreUlus&custom_title=Ali%20Emre's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  </a>
+</p>
 
-<iframe src="https://media.istockphoto.com/videos/german-flag-seamless-smooth-waving-animation-wonderful-flag-of-with-video-id1318633226?autoplay=1" allow="autoplay"></iframe>
-
-<iframe src="https://www.youtube.com/watch?v=gvv59pLXDHY&ab_channel=TechProEducation?autoplay=1" allow="autoplay"></iframe>
-<video preload="none" autoplay loop muted playsinline poster="" width="100%" height="100%">
-    <source src="https://www.youtube.com/watch?v=gvv59pLXDHY&ab_channel=TechProEducation?" type="video/mp4">
-</video>
+<p align="center">
+  <img src="https://guilyx.vercel.app/api/top-played">
+</p>
