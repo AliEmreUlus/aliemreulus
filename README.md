@@ -34,27 +34,25 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 
 <p>💬 const aliEmre = {<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-🤵    pronouns: "He" | "Him",<br />
+🤵pronouns: "He" | "Him",<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-✍🏻    code: ["Javascript", "Python", "Java", "PHP", "HTML", "C",],<br />
+✍🏻      code: ["Javascript", "Python", "Java", "PHP", "HTML", "C",],<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-📫    askMeAbout: ["data science", "data analysis", "tech", "mentoring"],<br />
+📫      askMeAbout: ["data science", "data analysis", "tech", "mentoring"],<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-📡    technologies: {<br />
+📡      technologies: ["Windows", "IOS", "Linux"]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-🖥️        devOps: ["AWS", "Git", "GitHub],<br />
+🖥️      devOps: ["AWS", "Git", "GitHub],<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-💻        databases: ["Tableau", "MySql"],<br />
+💻      databases: ["Tableau", "MySql"],<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-   },<br />
+📐      architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-📐    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],<br />
+🧠      currentFocus: "I am currently studying at the university related to technical computer engineering.",<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-🧠    currentFocus: "I am currently studying at the university related to technical computer engineering.",<br />
+🌱      urrentLearning :"I am interested in the field of robotics and machine learning."<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-🌱    currentLearning :"I am interested in the field of robotics and machine learning."<br />
----------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-😄    funFact: "There are two ways to write error-free programs; only the third one works";<br />
+😄      funFact: "There are two ways to write error-free programs; only the third one works";<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
 }</p>
 
