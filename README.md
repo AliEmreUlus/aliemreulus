@@ -67,3 +67,4 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 <p align="center">
   <img src="https://guilyx.vercel.app/api/top-played">
 </p>
+<p align="center">https://github.com/techproeducationgit</p>
