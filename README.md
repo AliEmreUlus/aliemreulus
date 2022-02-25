@@ -17,7 +17,7 @@
 
 <h1 align="center">Hi, I'm Ali Emre ✌️</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AliEmreUlus-ma&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AliEmreUlus&theme=onedark"/>
 
 ```yaml
 name: Ali Emre Ulus
