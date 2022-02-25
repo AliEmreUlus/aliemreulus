@@ -55,7 +55,7 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
 😄      funFact: "There are two ways to write error-free programs; only the third one works";<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-}
+         }
 ```
 
 <div align="center"><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ilal88pjcw4an3qpvcfk25vxbtp907mhe8dsvs9h&rid=giphy.gif&ct=g"></div>
