@@ -68,3 +68,6 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 <iframe src="https://media.istockphoto.com/videos/german-flag-seamless-smooth-waving-animation-wonderful-flag-of-with-video-id1318633226?autoplay=1" allow="autoplay"></iframe>
 
 <iframe src="https://www.youtube.com/watch?v=gvv59pLXDHY&ab_channel=TechProEducation?autoplay=1" allow="autoplay"></iframe>
+<video preload="none" autoplay loop muted playsinline poster="" width="100%" height="100%">
+    <source src="https://www.youtube.com/watch?v=gvv59pLXDHY&ab_channel=TechProEducation?" type="video/mp4">
+</video>
