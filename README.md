@@ -1,3 +1,15 @@
+<p align="center">
+<br/>
+<a href="https://twitter.com/spida_rwin">
+  <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
+</a>
+<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://www.instagram.com/spid_erwin">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+</a>
+   
 <img src="https://github.com/AliEmreUlus/aliemreulus/blob/main/banner.JPG?raw=true">
 
 <h1 align="center">Hi, I'm Ali Emre ✌️</h1>
