@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/aliemreulus/">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
-  <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+  <a href="https://open.spotify.com/user/72doc1x8wijkv6j0axft8owhs?si=QF2Xk-8RS8i68Tm4UQYGcg">
   <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a> 
           
@@ -65,8 +65,8 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=AliEmreUlus&custom_title=Ali%20Emre's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=72doc1x8wijkv6j0axft8owhs&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=72doc1x8wijkv6j0axft8owhs&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
   </a>
 </p>
 
