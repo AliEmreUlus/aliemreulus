@@ -32,9 +32,10 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 
 <div align="center"><img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47c2q4vj9iog1mgex8pyheuf2zhr6uiqnqd2scbsx2&rid=giphy.gif&ct=g"></div>
 
-<p>💬 const aliEmre = {<br />
+```yaml
+💬 const aliEmre = {<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-🤵pronouns: "He" | "Him",<br />
+🤵       pronouns: "He" | "Him",<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
 ✍🏻      code: ["Javascript", "Python", "Java", "PHP", "HTML", "C",],<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
@@ -54,7 +55,8 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
 😄      funFact: "There are two ways to write error-free programs; only the third one works";<br />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------<br />
-}</p>
+}
+```
 
 <div align="center"><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ilal88pjcw4an3qpvcfk25vxbtp907mhe8dsvs9h&rid=giphy.gif&ct=g"></div>
 
